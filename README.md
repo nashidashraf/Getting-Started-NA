@@ -1,2 +1,2 @@
 # Getting-Started-NA
-Assignment for software development
+I created a repository
